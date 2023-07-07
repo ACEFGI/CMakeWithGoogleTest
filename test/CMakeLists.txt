@@ -32,3 +32,4 @@ include_directories(${source_dir}/googlemock/include)
 
 # Then include test directories
 add_subdirectory(TestExample)
+add_subdirectory(TestAnimalClasses)
